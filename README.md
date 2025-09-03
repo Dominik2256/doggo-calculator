@@ -1,61 +1,61 @@
 # Calculator App  
-Prosta i intuicyjna aplikacja kalkulatora z podstawowymi oraz zaawansowanymi funkcjami.
+A simple and intuitive calculator application with both basic and advanced functions.
 
 ---
 
 ## Quick Start Guide
 
-### Podstawowe działania arytmetyczne
-- Wprowadzaj liczby za pomocą ekranowej klawiatury.
-- Obsługa dodawania (+), odejmowania (−), mnożenia (×) i dzielenia (÷).
-- Wyniki wyświetlane są w czasie rzeczywistym.
+### Basic Arithmetic
+- Enter numbers using the on-screen keypad.
+- Perform addition (+), subtraction (−), multiplication (×), and division (÷).
+- Results are displayed in real time.
 
 ---
 
-### Zaawansowane funkcje
-- **√** – oblicz pierwiastek kwadratowy.
-- **x²** – oblicz kwadrat liczby.
-- Podwójne kliknięcie przycisku **C** – wyczyść wszystkie wpisy.
+### Advanced Functions
+- **√** – calculate the square root.
+- **x²** – calculate the square of a number.
+- **Double-click the "C" button** to clear all entries instantly.
 
 ---
 
-### Funkcje pamięci
-- Wykonaj obliczenia i naciśnij **=**, aby zobaczyć wynik.
-- Możesz kontynuować dalsze działania, używając otrzymanego wyniku.
+### Memory Functionality
+- Perform calculations and press **=** to display the result.
+- Continue calculations using the obtained result.
 
 ---
 
-### Specjalna funkcja – Jake Nose
-- Kliknij ikonę nosa, aby uruchomić ukrytą funkcję dźwiękową.
+### Special Feature – Jake Nose
+- Click the small nose icon to trigger a hidden sound effect.
 
 ---
 
-### Personalizacja
-- Dynamiczny tytuł aplikacji, który zmienia się przy każdym uruchomieniu.
+### Customization
+- The app features a **dynamic title** that changes every time you launch it.
 
 ---
 
-### Skróty klawiaturowe
-- **Enter** → wykonaj obliczenia.
-- **Backspace** → usuń ostatnią cyfrę.
+### Keyboard Shortcuts
+- **Enter** → perform the calculation.
+- **Backspace** → delete the last digit.
 
 ---
 
-### Obsługa błędów
-- Dzielenie przez zero i inne błędy są obsługiwane w sposób bezpieczny.
+### Error Handling
+- Division by zero and other errors are handled gracefully.
 
 ---
 
-### Automatyczna minimalizacja konsoli (Windows)
-- Podczas uruchamiania aplikacja automatycznie ukrywa konsolę.
+### Console Minimization (Windows)
+- On Windows, the console window is automatically hidden at startup.
 
 ---
 
-### Szybkie czyszczenie
-- Podwójne kliknięcie przycisku **C** natychmiast usuwa wszystkie dane.
+### Quick Clear
+- Double-click the **"C"** button to remove all data instantly.
 
 ---
 
-## Autor
+## Author
 **Dominik Pałac**  
-[GitHub](https://github.com/) • [LinkedIn](https://linkedin.com/) *(opcjonalnie)*
+[GitHub](https://github.com/) • [LinkedIn](https://linkedin.com/) *(optional)*
