@@ -58,4 +58,4 @@ A simple and intuitive calculator application with both basic and advanced funct
 
 ## Author
 **Dominik Pałac**  
-[GitHub](https://github.com/) • [LinkedIn](https://linkedin.com/) *(optional)*
+[GitHub](https://github.com/dominik2256)
